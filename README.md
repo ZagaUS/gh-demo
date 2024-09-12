@@ -42,3 +42,16 @@ What is cloning?
 Branching strategies:
   - trunk
   - GitFlow
+
+What are branches?
+  - `git branch`
+
+How do we view remote branches?
+  - `git branch -r`
+
+All branches
+  - `git branch -a`
+
+Pull requests
+  - This is a way of giving your teammates the opportunity to review your changes before they are merged into a branch that is shared by the team.
+
